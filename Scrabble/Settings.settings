@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Scrabble" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultPlayer1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 1</Value>
+    </Setting>
+    <Setting Name="Difficulty" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DefaultPlayer2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 2</Value>
+    </Setting>
+    <Setting Name="DefaultPlayer3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 3</Value>
+    </Setting>
+    <Setting Name="DefaultPlayer4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 4</Value>
+    </Setting>
+    <Setting Name="EnableMusic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HighScoreName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jansen</Value>
+    </Setting>
+    <Setting Name="HighScoreValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Serial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zzzz</Value>
+    </Setting>
+    <Setting Name="ReuseBlank" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Fullscreen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
